@@ -1,6 +1,10 @@
 THis is second file.
 <<<<<<< HEAD
+<<<<<<< HEAD
 wip  changes done for feature1.
 =======
 wip
+>>>>>>> feature2
+=======
+wip  changes in feature2
 >>>>>>> feature2
